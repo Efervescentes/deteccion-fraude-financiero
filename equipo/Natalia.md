@@ -1,2 +1,6 @@
-Natalia Jaramillo
-Usuario GitHub: NatJaramillo Configuración completada: 11/11/2026
+
+# Natalia Jaramillo
+
+**Usuario GitHub:** NatJaramillo
+
+**Configuración completada:** 11/11/2026
